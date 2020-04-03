@@ -1,2 +1,0 @@
-# products
-Created with CodeSandbox
